@@ -1,0 +1,36 @@
+*{
+    font-family: 'Franklin Gothic Medium';
+}
+h1{
+    color: crimson;
+}
+img{
+    height: 500px;
+    
+  
+}
+div{
+    text-align: center;
+}
+html{
+    background-color:lightgreen;
+}
+.ben{
+    background-color: blueviolet;
+    text-align: center;
+    font-weight: bold;
+    
+}
+footer{
+    text-align: center;
+    
+}
+a{
+    color: darkgoldenrod;
+}
+img:hover{
+    opacity: 0;
+}
+#h{
+    color: red;
+}
